@@ -1,7 +1,7 @@
 const photos = [
     {
-        url: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop',
-        title: 'Mountain Landscape'
+        url: 'https://drive.google.com/file/d/14y1-Vm8OCtrIeK1AORjaURWKB_Gwlwku/view?usp=drivesdk',
+       itle: 'My Boy'
     },
     {
         url: 'https://images.unsplash.com/photo-1471879832106-c7ab9019e38d?w=500&h=500&fit=crop',
